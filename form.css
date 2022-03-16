@@ -1,0 +1,22 @@
+.centre{
+    align-items: center;
+}
+#demo{
+    color: brown;
+    text-align: center;
+}
+#table{
+    border: 3px;
+}
+.btn{
+    float: left;
+}
+.container{
+    margin: 40px;
+    
+}
+.form{
+background-color: aquamarine;
+height: 300px;
+padding: 20px;
+}
